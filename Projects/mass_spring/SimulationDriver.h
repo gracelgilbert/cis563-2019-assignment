@@ -87,6 +87,18 @@ public:
 	//  ASSIGNMENT ////////////////////////////////
 	//  Add you code to build f /////////////////// 
 	///////////////////////////////////////////////
+
+        for(int p=0; p<N_points; p++) {
+            TV vel = ms.v[p];
+            TV springForce = fn[p];
+            T mass = ms.m[p];
+            for (int d = 0; d < dim; d++) {
+                int i = p * dim + d;
+                rhs[i] += mass * vel[d] / dt;
+                rhs[i] += springForce[d];
+                rhs[i] += mass * gravity[d];
+            }
+        }
   
         // build the matrix
         // Mass matrix contribution (assembly to global)
@@ -122,6 +134,14 @@ public:
 	    //  ASSIGNMENT /////////////////////////////////////////////////// 
 	    //  Add you code to construct local elasticity matrix K_local
 	    /////////////////////////////////////////////// //////////////////
+            Eigen::Matrix<T,dim,dim> I = Eigen::Matrix<T, dim, dim>::Identity();
+            Eigen::Matrix<T,dim,dim> K = E * ((1 / l0) - (1 / l)) * (I - n * n.transpose()) + (E / l0) * n * n.transpose();
+            Eigen::Matrix<T,dim*2,dim*2> K_local;
+            K_local.template block<dim,dim>(0,0) = -K;
+            K_local.template block<dim,dim>(dim,0) = K;
+            K_local.template block<dim,dim>(0,dim) = K;
+            K_local.template block<dim,dim>(dim,dim) = -K;
+
 
 	    ////////////////////////////////////////////////////////////////// 
 	    //  ASSIGNMENT /////////////////////////////////////////////////// 
@@ -129,6 +149,29 @@ public:
 	    //  Note that you need to take care of dirichlet-0 nodes in the
 	    //     corresponding row and columns (by keeping those entries 0)
 	    /////////////////////////////////////////////// //////////////////
+
+            for (int i = 0; i < 2; i++) {
+                for (int j = 0; j < 2; j++) {
+
+                    for (int x = 0; x < dim; x++) {
+                        for (int y = 0; y < dim; y++) {
+
+                            if (!ms.node_is_fixed[particle[i]] && !ms.node_is_fixed[particle[j]]) {
+                                int xindex = dim * particle[i] + x;
+                                int yindex = dim * particle[j] + y;
+
+                                int localxIndex = dim * i + x;
+                                int localyIndex = dim * j + y;
+
+                                A.coeffRef(xindex, yindex) -= G_local(localxIndex, localyIndex) / dt;
+                                A.coeffRef(xindex, yindex) -= K_local(localxIndex, localyIndex);
+                            }
+
+                        }
+                    }
+
+                }
+            }
         }
 
         // process dirichlet-0 nodes at the diagonal of A

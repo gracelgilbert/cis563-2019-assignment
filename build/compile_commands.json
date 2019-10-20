@@ -1,0 +1,432 @@
+[
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIE   -o CMakeFiles/osqp_demo.dir/examples/osqp_demo.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/examples/osqp_demo.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/examples/osqp_demo.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -Dosqp_EXPORTS -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqp.dir/src/auxil.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/auxil.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/auxil.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -Dosqp_EXPORTS -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqp.dir/src/cs.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/cs.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/cs.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -Dosqp_EXPORTS -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqp.dir/src/ctrlc.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/ctrlc.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/ctrlc.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -Dosqp_EXPORTS -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqp.dir/src/kkt.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/kkt.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/kkt.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -Dosqp_EXPORTS -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqp.dir/src/lin_alg.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/lin_alg.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/lin_alg.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -Dosqp_EXPORTS -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqp.dir/src/lin_sys.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/lin_sys.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/lin_sys.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -Dosqp_EXPORTS -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqp.dir/src/osqp.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/osqp.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/osqp.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -Dosqp_EXPORTS -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqp.dir/src/polish.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/polish.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/polish.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -Dosqp_EXPORTS -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqp.dir/src/proj.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/proj.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/proj.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -Dosqp_EXPORTS -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqp.dir/src/scaling.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/scaling.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/scaling.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -Dosqp_EXPORTS -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqp.dir/src/util.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/util.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/util.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -Dosqp_EXPORTS -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqp.dir/lin_sys/lib_handler.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/lib_handler.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/lib_handler.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqpstatic.dir/src/auxil.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/auxil.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/auxil.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqpstatic.dir/src/cs.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/cs.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/cs.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqpstatic.dir/src/ctrlc.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/ctrlc.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/ctrlc.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqpstatic.dir/src/kkt.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/kkt.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/kkt.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqpstatic.dir/src/lin_alg.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/lin_alg.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/lin_alg.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqpstatic.dir/src/lin_sys.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/lin_sys.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/lin_sys.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqpstatic.dir/src/osqp.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/osqp.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/osqp.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqpstatic.dir/src/polish.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/polish.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/polish.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqpstatic.dir/src/proj.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/proj.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/proj.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqpstatic.dir/src/scaling.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/scaling.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/scaling.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqpstatic.dir/src/util.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/util.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/src/util.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/osqpstatic.dir/lin_sys/lib_handler.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/lib_handler.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/lib_handler.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/linsys_pardiso.dir/pardiso/pardiso_interface.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso/pardiso_interface.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso/pardiso_interface.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/linsys_pardiso.dir/pardiso/pardiso_loader.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso/pardiso_loader.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/pardiso/pardiso_loader.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_1.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_1.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_1.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_2.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_2.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_2.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_aat.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_aat.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_aat.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_control.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_control.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_control.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_defaults.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_defaults.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_defaults.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_info.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_info.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_info.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_order.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_order.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_order.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_post_tree.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_post_tree.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_post_tree.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_postorder.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_postorder.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_postorder.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_preprocess.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_preprocess.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_preprocess.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_valid.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_valid.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/amd_valid.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/linsys_qdldl.dir/amd/src/SuiteSparse_config.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/SuiteSparse_config.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/src/SuiteSparse_config.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/amd/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/include   -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/linsys_qdldl.dir/qdldl_interface.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_interface.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_interface.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl/qdldl_sources",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include   -O3 -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/qdldlstatic.dir/src/qdldl.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/src/qdldl.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/src/qdldl.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl/qdldl_sources",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -Dqdldl_EXPORTS -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include   -O3 -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/qdldl.dir/src/qdldl.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/src/qdldl.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/src/qdldl.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl/qdldl_sources",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include   -O3 -O3 -O3 -DNDEBUG -fPIE   -o CMakeFiles/qdldl_example.dir/examples/c/example.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/examples/c/example.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/examples/c/example.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/build/lin_sys/direct/qdldl/qdldl_sources",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/include   -O3 -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/qdldlobject.dir/src/qdldl.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/src/qdldl.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/osqp/lin_sys/direct/qdldl/qdldl_sources/src/qdldl.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glad",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glad/include  -O3 -DNDEBUG   -o CMakeFiles/glad.dir/src/glad.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glad/src/glad.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glad/src/glad.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -D_GLFW_USE_CONFIG_H -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/context.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/context.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/context.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -D_GLFW_USE_CONFIG_H -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/init.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/init.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/init.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -D_GLFW_USE_CONFIG_H -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/input.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/input.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/input.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -D_GLFW_USE_CONFIG_H -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/monitor.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/monitor.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/monitor.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -D_GLFW_USE_CONFIG_H -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/vulkan.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/vulkan.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/vulkan.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -D_GLFW_USE_CONFIG_H -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/window.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/window.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/window.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -D_GLFW_USE_CONFIG_H -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -o CMakeFiles/glfw.dir/cocoa_init.m.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/cocoa_init.m",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/cocoa_init.m"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -D_GLFW_USE_CONFIG_H -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -o CMakeFiles/glfw.dir/cocoa_joystick.m.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/cocoa_joystick.m",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/cocoa_joystick.m"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -D_GLFW_USE_CONFIG_H -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -o CMakeFiles/glfw.dir/cocoa_monitor.m.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/cocoa_monitor.m",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/cocoa_monitor.m"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -D_GLFW_USE_CONFIG_H -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -o CMakeFiles/glfw.dir/cocoa_window.m.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/cocoa_window.m",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/cocoa_window.m"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -D_GLFW_USE_CONFIG_H -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -o CMakeFiles/glfw.dir/cocoa_time.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/cocoa_time.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/cocoa_time.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -D_GLFW_USE_CONFIG_H -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -o CMakeFiles/glfw.dir/posix_thread.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/posix_thread.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/posix_thread.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -D_GLFW_USE_CONFIG_H -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -o CMakeFiles/glfw.dir/nsgl_context.m.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/nsgl_context.m",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/nsgl_context.m"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -D_GLFW_USE_CONFIG_H -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -o CMakeFiles/glfw.dir/egl_context.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/egl_context.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/egl_context.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -D_GLFW_USE_CONFIG_H -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -o CMakeFiles/glfw.dir/osmesa_context.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/osmesa_context.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/src/osmesa_context.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/imgui",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/imgui/imgui -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glad/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include   -Wno-reorder -Wno-sign-compare -Wno-format-nonliteral -Wno-unused-but-set-variable -Wno-misleading-indentation -Wno-unused-variable -Wno-maybe-uninitialized -fPIC -Wall -Wextra -march=native -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/imgui.dir/imgui/imgui.cpp.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/imgui/imgui/imgui.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/imgui/imgui/imgui.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/imgui",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/imgui/imgui -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glad/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include   -Wno-reorder -Wno-sign-compare -Wno-format-nonliteral -Wno-unused-but-set-variable -Wno-misleading-indentation -Wno-unused-variable -Wno-maybe-uninitialized -fPIC -Wall -Wextra -march=native -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/imgui.dir/imgui/imgui_demo.cpp.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/imgui/imgui/imgui_demo.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/imgui/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/imgui",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/imgui/imgui -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glad/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include   -Wno-reorder -Wno-sign-compare -Wno-format-nonliteral -Wno-unused-but-set-variable -Wno-misleading-indentation -Wno-unused-variable -Wno-maybe-uninitialized -fPIC -Wall -Wextra -march=native -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/imgui.dir/imgui/imgui_draw.cpp.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/imgui/imgui/imgui_draw.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/imgui/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/imgui",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/imgui/imgui -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glad/include -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/glfw/include   -Wno-reorder -Wno-sign-compare -Wno-format-nonliteral -Wno-unused-but-set-variable -Wno-misleading-indentation -Wno-unused-variable -Wno-maybe-uninitialized -fPIC -Wall -Wextra -march=native -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/imgui.dir/imgui_impl_glfw_gl3.cpp.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/imgui/imgui_impl_glfw_gl3.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/imgui/imgui_impl_glfw_gl3.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/stb_image",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/stb_image -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/stb_image   -Wno-reorder -Wno-sign-compare -Wno-format-nonliteral -Wno-unused-but-set-variable -Wno-misleading-indentation -Wno-unused-variable -Wno-maybe-uninitialized -fPIC -Wall -Wextra -march=native -O3 -DNDEBUG -fvisibility=hidden   -std=gnu++1z -o CMakeFiles/igl_stb_image.dir/igl_stb_image.cpp.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/stb_image/igl_stb_image.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/stb_image/igl_stb_image.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/tetgen",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -DTETLIBRARY   -Wno-reorder -Wno-sign-compare -Wno-format-nonliteral -Wno-unused-but-set-variable -Wno-misleading-indentation -Wno-unused-variable -Wno-maybe-uninitialized -fPIC -Wall -Wextra -march=native -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/tetgen.dir/tetgen.cxx.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/tetgen/tetgen.cxx",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/tetgen/tetgen.cxx"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/tetgen",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -DTETLIBRARY   -Wno-reorder -Wno-sign-compare -Wno-format-nonliteral -Wno-unused-but-set-variable -Wno-misleading-indentation -Wno-unused-variable -Wno-maybe-uninitialized -fPIC -Wall -Wextra -march=native -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/tetgen.dir/predicates.cxx.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/tetgen/predicates.cxx",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/tetgen/predicates.cxx"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/triangle",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DANSI_DECLARATORS -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -DTRILIBRARY  -O3 -DNDEBUG   -o CMakeFiles/triangle.dir/triangle.c.o   -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/triangle/triangle.c",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/triangle/triangle.c"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/io/BGEO.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/BGEO.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/BGEO.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/io/BIN.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/BIN.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/BIN.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/io/GEO.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/GEO.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/GEO.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/io/MC.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/MC.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/MC.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/io/PDA.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/PDA.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/PDA.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/io/PDB.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/PDB.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/PDB.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/io/PDC.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/PDC.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/PDC.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/io/PTC.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/PTC.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/PTC.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/io/PTS.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/PTS.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/PTS.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/io/ParticleIO.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/ParticleIO.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/ParticleIO.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/io/RIB.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/RIB.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/RIB.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/io/ZIP.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/ZIP.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/io/ZIP.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/core/Particle.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/core/Particle.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/core/Particle.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/core/ParticleCaching.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/core/ParticleCaching.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/core/ParticleCaching.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/core/ParticleHeaders.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/core/ParticleHeaders.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/core/ParticleHeaders.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/core/ParticleSimple.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/core/ParticleSimple.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/core/ParticleSimple.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-build/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -I/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/src/lib  -fPIC -O3 -DNDEBUG   -Wextra -Wno-unused-parameter -std=gnu++1z -o CMakeFiles/partio.dir/core/ParticleSimpleInterleave.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/core/ParticleSimpleInterleave.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-src/src/lib/core/ParticleSimpleInterleave.cpp"
+},
+{
+  "directory": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Projects/mass_spring",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DCISPBA_PLUGIN_DIR=\\\"/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/Plugins\\\" -isystem /usr/local/include/eigen3   -Wno-reorder -Wno-sign-compare -Wno-format-nonliteral -Wno-unused-but-set-variable -Wno-misleading-indentation -Wno-unused-variable -Wno-maybe-uninitialized -fPIC -Wall -Wextra -march=native -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/mass_spring.dir/main.cpp.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/main.cpp",
+  "file": "/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/main.cpp"
+}
+]

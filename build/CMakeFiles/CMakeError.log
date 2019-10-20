@@ -1,0 +1,38 @@
+Performing C++ SOURCE FILE Test COMPILER_HAS_HIDDEN_VISIBILITY failed with the following output:
+Change Dir: /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/local/bin/gmake cmTC_43271/fast && /usr/local/bin/gmake -f CMakeFiles/cmTC_43271.dir/build.make CMakeFiles/cmTC_43271.dir/build
+gmake[1]: Entering directory '/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_43271.dir/src.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wno-reorder -Wno-sign-compare -Wno-format-nonliteral -Wno-unused-but-set-variable -Wno-misleading-indentation -Wno-unused-variable -Wno-maybe-uninitialized -fPIC -Wall -Werror=all -Wextra -Wno-unused-parameter -march=native -DCOMPILER_HAS_HIDDEN_VISIBILITY   -fvisibility=hidden -o CMakeFiles/cmTC_43271.dir/src.cxx.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/CMakeFiles/CMakeTmp/src.cxx
+warning: unknown warning option '-Wno-unused-but-set-variable'; did you mean '-Wno-unused-const-variable'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-misleading-indentation'; did you mean '-Wno-binding-in-condition'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-maybe-uninitialized'; did you mean '-Wno-uninitialized'? [-Wunknown-warning-option]
+3 warnings generated.
+Linking CXX executable cmTC_43271
+/usr/local/Cellar/cmake/3.15.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_43271.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -Wno-reorder -Wno-sign-compare -Wno-format-nonliteral -Wno-unused-but-set-variable -Wno-misleading-indentation -Wno-unused-variable -Wno-maybe-uninitialized -fPIC -Wall -Werror=all -Wextra -Wno-unused-parameter -march=native -DCOMPILER_HAS_HIDDEN_VISIBILITY -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_43271.dir/src.cxx.o  -o cmTC_43271 
+gmake[1]: Leaving directory '/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY failed with the following output:
+Change Dir: /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/local/bin/gmake cmTC_0327b/fast && /usr/local/bin/gmake -f CMakeFiles/cmTC_0327b.dir/build.make CMakeFiles/cmTC_0327b.dir/build
+gmake[1]: Entering directory '/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_0327b.dir/src.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wno-reorder -Wno-sign-compare -Wno-format-nonliteral -Wno-unused-but-set-variable -Wno-misleading-indentation -Wno-unused-variable -Wno-maybe-uninitialized -fPIC -Wall -Werror=all -Wextra -Wno-unused-parameter -march=native -DCOMPILER_HAS_HIDDEN_INLINE_VISIBILITY   -fvisibility-inlines-hidden -o CMakeFiles/cmTC_0327b.dir/src.cxx.o -c /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/CMakeFiles/CMakeTmp/src.cxx
+warning: unknown warning option '-Wno-unused-but-set-variable'; did you mean '-Wno-unused-const-variable'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-misleading-indentation'; did you mean '-Wno-binding-in-condition'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-maybe-uninitialized'; did you mean '-Wno-uninitialized'? [-Wunknown-warning-option]
+3 warnings generated.
+Linking CXX executable cmTC_0327b
+/usr/local/Cellar/cmake/3.15.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0327b.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -Wno-reorder -Wno-sign-compare -Wno-format-nonliteral -Wno-unused-but-set-variable -Wno-misleading-indentation -Wno-unused-variable -Wno-maybe-uninitialized -fPIC -Wall -Werror=all -Wextra -Wno-unused-parameter -march=native -DCOMPILER_HAS_HIDDEN_INLINE_VISIBILITY -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_0327b.dir/src.cxx.o  -o cmTC_0327b 
+gmake[1]: Leaving directory '/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }

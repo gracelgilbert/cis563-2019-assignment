@@ -1,0 +1,14 @@
+# Target labels
+ partio-download
+# Source files and their labels
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-download/CMakeFiles/partio-download
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-download/CMakeFiles/partio-download.rule
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-download/CMakeFiles/partio-download-complete.rule
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-install.rule
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-mkdir.rule
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-download.rule
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-patch.rule
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-configure.rule
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-build.rule
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-test.rule
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-skip-update.rule

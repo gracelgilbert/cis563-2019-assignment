@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/tetgen/predicates.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+float.h
+-
+fpu_control.h
+-
+tetgen.h
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/tetgen/tetgen.h
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/tetgen/tetgen.cxx
+tetgen.h
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/tetgen/tetgen.h
+
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Deps/libigl/external/tetgen/tetgen.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+time.h
+-
+assert.h
+-
+stdint.h
+-
+

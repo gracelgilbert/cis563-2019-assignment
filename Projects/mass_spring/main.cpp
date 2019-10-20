@@ -47,7 +47,7 @@ int main(int argc, char* argv[])
         }
     }
     node_is_fixed.resize(N_points,false);
-    // for(int i=0; i<N; i++)
+    // for(int i=0; i<N; i+= N - 1)
     //     node_is_fixed[i] = true;
 
     
