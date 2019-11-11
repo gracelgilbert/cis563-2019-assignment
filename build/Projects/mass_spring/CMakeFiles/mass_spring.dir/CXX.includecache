@@ -6,7 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/MassSpringSystem.h
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/GridSystem.h
+Eigen/Core
+-
+Eigen/Dense
+-
+vector
+-
+string
+-
+fstream
+-
+
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/ParticleSystem.h
 Eigen/Core
 -
 Eigen/Dense
@@ -27,8 +39,10 @@ sys/stat.h
 -
 iostream
 -
-MassSpringSystem.h
-/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/MassSpringSystem.h
+ParticleSystem.h
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/ParticleSystem.h
+GridSystem.h
+/Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/GridSystem.h
 
 /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/main.cpp
 Eigen/Core
