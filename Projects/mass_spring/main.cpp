@@ -10,6 +10,10 @@
 
 #include "SimulationDriver.h"
 
+bool selectInGeometry(TV samplePos) {
+    return true;
+}
+
 int main(int argc, char* argv[])
 {
     using T = float;
@@ -33,12 +37,17 @@ int main(int argc, char* argv[])
     for(int i=0; i<N; i++){
         for(int j=0; j<N; j++){
             for(int k=0; k<N; k++){
-                int id = i + j * (N - 1) + k * (N - 1) * (N - 1);
-                m[id] = (T)1/N_points;
-                x[id](0) = (i-1 + ((double) rand() / (RAND_MAX)) + 1)*dx;
-                x[id](1) = (j-1 + ((double) rand() / (RAND_MAX)) + 1)*dx;
-                x[id](2) = (k-1 + ((double) rand() / (RAND_MAX)) + 1)*dx;
-                v[id] = TV::Zero();
+                TV samplePos = TV::Zero();
+                samplePos(0) = (i-1 + ((double) rand() / (RAND_MAX)) + 1)*dx;
+                samplePos(1) = (i-1 + ((double) rand() / (RAND_MAX)) + 1)*dx;
+                samplePos(2) = (i-1 + ((double) rand() / (RAND_MAX)) + 1)*dx;
+                if (selectInGeometry(samplePos)) {
+                    int id = i + j * (N - 1) + k * (N - 1) * (N - 1);
+                    m[id] = (T)1/N_points;
+                    x[id] = samplePos;
+                    v[id] = TV::Zero();
+                }
+
             }
         }
     }
@@ -46,13 +55,16 @@ int main(int argc, char* argv[])
     // set up grid system
     std::vector<T> grid_m;
     std::vector<TV> grid_v;
+    std::vector<TV> grid_vn;
     std::vector<TV> grid_f;
-    std::vector<TV> active_nodes;
+    std::vector<int> active_nodes;
     int grid_N = N / 2;
-    int grid_h = (T)1 / ((T)grid_N - (T)1);
+    float grid_h = 1.0 / ((float)grid_N - 1.0);
+    // std::cout << grid_N << std::endl;
     int N_cells = grid_N * grid_N * grid_N;
     grid_m.resize(N_cells);
     grid_v.resize(N_cells);
+    grid_vn.resize(N_cells);
     grid_f.resize(N_cells);
 
     // simulate
@@ -64,10 +76,11 @@ int main(int argc, char* argv[])
     driver.gs.h = grid_h;
     driver.gs.m = grid_m;
     driver.gs.v = grid_v;
+    driver.gs.vn = grid_vn;
     driver.gs.f = grid_f;
     driver.gs.active_nodes = active_nodes;
 
-    driver.run(1);
+    driver.run(24);
 
     return 0;
 }

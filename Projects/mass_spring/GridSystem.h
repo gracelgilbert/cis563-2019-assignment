@@ -12,8 +12,9 @@ public:
     
     std::vector<T> m;
     std::vector<TV> v;
+    std::vector<TV> vn;
     std::vector<TV> f;
-    std::vector<TV> active_nodes;
+    std::vector<int> active_nodes;
     int res;
     float h;
 
