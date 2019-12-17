@@ -6,6 +6,13 @@ Projects/mass_spring/CMakeFiles/mass_spring.dir/main.cpp.o
  /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/ParticleSystem.h
  /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/SimulationDriver.h
  /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/main.cpp
+ /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/mesh_query0.1/bounding_box.h
+ /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/mesh_query0.1/bounding_box_tree.h
+ /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/mesh_query0.1/mesh_query.h
+ /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/mesh_query0.1/predicates.h
+ /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/mesh_query0.1/util.h
+ /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/mesh_query0.1/vec.h
+ /Users/gracegilbert/Documents/CIS563/cis563-2019-assignment/Projects/mass_spring/tiny_obj_loader.h
  /usr/local/include/eigen3/Eigen/Cholesky
  /usr/local/include/eigen3/Eigen/Core
  /usr/local/include/eigen3/Eigen/Dense

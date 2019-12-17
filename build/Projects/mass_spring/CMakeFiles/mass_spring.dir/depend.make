@@ -5,6 +5,13 @@ Projects/mass_spring/CMakeFiles/mass_spring.dir/main.cpp.o: ../Projects/mass_spr
 Projects/mass_spring/CMakeFiles/mass_spring.dir/main.cpp.o: ../Projects/mass_spring/ParticleSystem.h
 Projects/mass_spring/CMakeFiles/mass_spring.dir/main.cpp.o: ../Projects/mass_spring/SimulationDriver.h
 Projects/mass_spring/CMakeFiles/mass_spring.dir/main.cpp.o: ../Projects/mass_spring/main.cpp
+Projects/mass_spring/CMakeFiles/mass_spring.dir/main.cpp.o: ../Projects/mass_spring/mesh_query0.1/bounding_box.h
+Projects/mass_spring/CMakeFiles/mass_spring.dir/main.cpp.o: ../Projects/mass_spring/mesh_query0.1/bounding_box_tree.h
+Projects/mass_spring/CMakeFiles/mass_spring.dir/main.cpp.o: ../Projects/mass_spring/mesh_query0.1/mesh_query.h
+Projects/mass_spring/CMakeFiles/mass_spring.dir/main.cpp.o: ../Projects/mass_spring/mesh_query0.1/predicates.h
+Projects/mass_spring/CMakeFiles/mass_spring.dir/main.cpp.o: ../Projects/mass_spring/mesh_query0.1/util.h
+Projects/mass_spring/CMakeFiles/mass_spring.dir/main.cpp.o: ../Projects/mass_spring/mesh_query0.1/vec.h
+Projects/mass_spring/CMakeFiles/mass_spring.dir/main.cpp.o: ../Projects/mass_spring/tiny_obj_loader.h
 Projects/mass_spring/CMakeFiles/mass_spring.dir/main.cpp.o: /usr/local/include/eigen3/Eigen/Cholesky
 Projects/mass_spring/CMakeFiles/mass_spring.dir/main.cpp.o: /usr/local/include/eigen3/Eigen/Core
 Projects/mass_spring/CMakeFiles/mass_spring.dir/main.cpp.o: /usr/local/include/eigen3/Eigen/Dense
